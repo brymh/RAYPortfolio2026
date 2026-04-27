@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="resources/md/yorktransp.png" width="200">
+  <img src="resources/md/york.png" width="200">
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lora&size=29&pause=2000&color=F7593F&center=true&width=435&lines=Research+at+York+2026" alt="Typing SVG">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=29&pause=2000&color=E5646B&center=true&width=435&lines=Research+at+York+2026" alt="Typing SVG" /></a>
   </a>
 </p>
 
