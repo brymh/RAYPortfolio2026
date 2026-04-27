@@ -27,3 +27,7 @@ The repository contains three main projects:
 Together, these projects represent the intersection of my interests in physics, computation, and research-oriented thinking. They are not meant to be final, perfect research papers, but rather examples of how I learn, build, test ideas, and apply technical tools across different areas of science and computing.
 
 If you have any questions, or if you would like me to walk you through any of the projects, feel free to reach out at [brymh@my.yorku.ca](mailto:brymh@my.yorku.ca).
+
+With enthusiasm,
+
+Bryan Milosevic-Hill
