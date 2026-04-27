@@ -1,0 +1,16 @@
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+scipy
+numpy
+matplotlib
+pandas
+geopandas
+networkx
+google-genai
+pyswip
+python-constraint
+python-dotenv
+jupyterlab
+ipykernel
+ipywidgets
