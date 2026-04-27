@@ -6,13 +6,16 @@
   </a>
 </p>
 
-
+<table>
+<tr>
+<td width="70%" valign="top">
 
 This repository is a curated collection of projects intended to showcase my abilities as both a physicist and a computer scientist. As a double major in the two, I wanted to highlight the interdisciplinary nature of my degree and show how I use code to explore scientific and technical problems.
 
 I decided to include three projects, each showing a different part of my background and interests: quantum computing, computational physics, and agentic AI. Together, they are meant to paint a picture of both my current ability and my trajectory as an aspiring computational physicist and quantum researcher.
 
-The repository contains three main projects:
+
+**The repository contains three main projects:**
 
 1. [Quantum vs Classical Measurement, a Qiskit Investigation](https://github.com/brymh/RAYPortfolio2026/blob/main/fourier_quantum_measurement.ipynb)  
    This notebook focuses on quantum measurement and was actually the first context in which I interfaced with a real quantum computer. It features Matplotlib, Qiskit, NumPy, and SciPy as I document my experience independently studying quantum information and working toward the IBM Qiskit Developer Certification.
@@ -30,3 +33,65 @@ If you have any questions, or if you would like me to walk you through any of th
 With enthusiasm,
 
 Bryan Milosevic-Hill
+April 2026
+
+---
+
+
+
+</td>
+<td width="30%" valign="top">
+
+<a href="https://github.com/brymh/RAYPortfolio2026/blob/main/fourier_quantum_measurement.ipynb"><img src="resources/md/fez.png" width="100%"></a>
+<a href="https://github.com/brymh/RAYPortfolio2026/blob/main/agentic_gemini_graph_pipeline.ipynb"><img src="resources/md/graph.png" width="100%"></a>
+<a href="https://github.com/brymh/RAYPortfolio2026/blob/main/mcmc_andromeda_core_cusp.ipynb"><img src="resources/md/curve.png" width="100%"></a>
+
+</td>
+</tr>
+</table>
+
+
+#### Additionally, I have experience with:
+
+<table><tr><td>
+Python · Java and OOP Frameworks · C and C++ · Machine Code and Assembly (RISC-V) · Git · Shell Scripting and Linux · Embedded Systems · JUnit and Test Case Design · LaTeX · HTML, JS, Django · Software Design Patterns and Algorithm Design · Sensor Interfacing and Microcontrollers · Qiskit · Prolog
+</td></tr></table>
+
+
+## To Run Locally
+
+1. Clone the repo
+
+```
+git clone https://github.com/brymh/RAYPortfolio2026
+cd RAYPortfolio2026
+```
+
+2. Create virtual environment
+
+Windows:
+```
+py -m venv .venv
+.\.venv\Scripts\activate
+```
+
+Mac:
+```
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+After activation, you should see `(.venv)` at the beginning of each prompt.
+
+3. Install dependencies
+
+```
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+
+---
+I do not own the rights to NYC traffic data or the html file storing April 7th, those files were accessed and used for educational purposes.
+
+This repository was created for educational and personal portfolio purposes. I **do not** consent to the use of my code for training language models, machine learning systems, or other AI tools. 
